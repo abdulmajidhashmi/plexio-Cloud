@@ -1,0 +1,35 @@
+/*   Home */
+.header-area .navbar-wrapper ul li[data-menu-index="0"].dropdown-menu-item.home-menu>a:after {
+    content: '';
+}
+
+.header-area .navbar-wrapper ul li[data-menu-index="0"].dropdown-menu-item.home-menu .mega-menu .mega-menu-inner {
+    display: block;
+}
+
+/*   Company */
+.header-area .navbar-wrapper ul li[data-menu-index="0"].mega-menu-item.company-menu>a:after {
+    content: '';
+}
+
+.header-area .navbar-wrapper ul li[data-menu-index="0"].company-menu .mega-menu .mega-menu-inner {
+    display: block;
+}
+
+/*   Portfolio */
+.header-area .navbar-wrapper ul li[data-menu-index="0"].mega-menu-item.portfolio-menu>a:after {
+    content: '';
+}
+
+.header-area .navbar-wrapper ul li[data-menu-index="0"].portfolio-menu .mega-menu .mega-menu-inner {
+    display: block;
+}
+
+/*   Services */
+.header-area .navbar-wrapper ul li[data-menu-index="0"].mega-menu-item.service-menu>a:after {
+    content: '';
+}
+
+.header-area .navbar-wrapper ul li[data-menu-index="0"].service-menu .mega-menu .mega-menu-inner {
+    display: block;
+}
